@@ -133,3 +133,4 @@ D:\ConsulencyPractise\StudentPortal-CRUD-Operation-by-.NET-Core-MVC-\StudentPort
 D:\ConsulencyPractise\StudentPortal-CRUD-Operation-by-.NET-Core-MVC-\StudentPortal\StudentPortal.Web\obj\Debug\net8.0\StudentPortal.Web.pdb
 D:\ConsulencyPractise\StudentPortal-CRUD-Operation-by-.NET-Core-MVC-\StudentPortal\StudentPortal.Web\obj\Debug\net8.0\StudentPortal.Web.genruntimeconfig.cache
 D:\ConsulencyPractise\StudentPortal-CRUD-Operation-by-.NET-Core-MVC-\StudentPortal\StudentPortal.Web\obj\Debug\net8.0\ref\StudentPortal.Web.dll
+D:\ConsulencyPractise\StudentPortal-CRUD-Operation-by-.NET-Core-MVC-\StudentPortal\StudentPortal.Web\obj\Debug\net8.0\StudentPortal.Web.sourcelink.json
